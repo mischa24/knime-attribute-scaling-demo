@@ -1,3 +1,8 @@
+![Platform](https://img.shields.io/badge/Platform-KNIME-yellow)
+![Technique](https://img.shields.io/badge/Method-Scaling%20%26%20Normalization-blue)
+![Status](https://img.shields.io/badge/Workflow-Documented-success)
+![Updated](https://img.shields.io/badge/Last_Updated-3_days_ago-lightgrey)
+
 # KNIME Attribute Scaling Demo
 
 This project demonstrates attribute scaling and normalization using **KNIME Analytics Platform**.
